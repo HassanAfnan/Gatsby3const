@@ -1,0 +1,117 @@
+.main_header_twiller{
+    width: 99vw;
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between ;
+    background: #ffff;
+}
+.main_header_logo_img{
+margin-left: 2vw;
+}
+.twiller_inner_head{
+    width: 60vw;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
+    margin-right: 2vw;
+    margin-top: 10px;
+/* margin-right: 13vw; */
+}
+
+.twiller_row_headup{
+    width: 65%;
+    height: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    min-width: 500px;
+    
+}
+.img_si_upper{
+    width: 14px;
+    height: 14px;
+        margin-top: -20px;
+
+}
+.p_si_topp_upp{
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 30px;
+    margin-left: 5px;
+    
+    color: #E4641D;
+    height: 50px;
+}
+.twiller_doubler{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    
+}
+
+.twiller_row_headown{
+    width: 56vw;
+    height: 35px;
+    border-radius: 50px;
+    background-color: #FFFDFD;
+    box-shadow: -4px -4px 10px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.25vw;
+
+}
+.p_si_headmain{
+    font-family: 'Titillium Web';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+
+/* identical to box height */
+margin-left: 1vw;
+
+color: #000000;
+
+}
+.p_si_headmain:hover{
+    color: #062C84;
+    cursor: pointer;
+}
+.p_si_headmain_last{
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    
+    /* identical to box height */
+    color: #FFFDFD;
+    background-color: #E4641D;
+    border-radius: 50px;
+    width: 10vw;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-right: 5px;
+
+    
+}
+.p_si_headmain_last:hover{
+    color: #062C84;
+    cursor: pointer;
+}
+.logo1_png{
+    width: 150px;
+    height: 70px;
+}
